@@ -1,28 +1,26 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a pin board that is similar to what to Pin Interest website. It allows users to sign up and sign in and post new pins with a title and description. This is a very basic app so it does not have any testing or validations on it.
 
-Things you may want to cover:
+The app makes use of:
 
-* Ruby version
+* [Devise](https://rubygems.org/gems/devise)
 
-* System dependencies
+* [Acts_as_votable](https://rubygems.org/gems/acts_as_votable/versions/0.10.0)
 
-* Configuration
+* [Paperclip](https://rubygems.org/gems/paperclip)
 
-* Database creation
+* [Masonry (for transitions)](https://rubygems.org/gems/masonry-rails)
 
-* Database initialization
+* [Bootstrap-Sass](https://rubygems.org/gems/bootstrap-sass)
 
-* How to run the test suite
+* [Rails Simple forms](https://rubygems.org/gems/simple_form)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [Haml](https://rubygems.org/gems/haml)
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+
+Please feel free to clone and extend the functionalities
+
+Credits to: **[Mackenzie Child](https://github.com/mackenziechild)**
