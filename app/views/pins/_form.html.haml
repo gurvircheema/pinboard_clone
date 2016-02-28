@@ -8,10 +8,10 @@
 				- @pin.errors.full_messages.each do |message|
 					%li= message
 
-	.form-control
+	.form-group
 		= f.input :title, input_html: {class: 'form-control'}
 
-	.form-control
+	.form-group
 		= f.input :description, input_html: {class: 'form-control'}
 
 	= f.button :submit, class: 'btn btn-primary'
