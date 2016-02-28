@@ -4,23 +4,23 @@ This is a pin board that is similar to what to Pin Interest website. It allows u
 
 The app makes use of:
 
-* [Devise](https://rubygems.org/gems/devise)
+* Devise[https://rubygems.org/gems/devise]
 
-* [Acts_as_votable](https://rubygems.org/gems/acts_as_votable/versions/0.10.0)
+* Acts_as_votable[https://rubygems.org/gems/acts_as_votable/versions/0.10.0]
 
-* [Paperclip](https://rubygems.org/gems/paperclip)
+* Paperclip[https://rubygems.org/gems/paperclip]
 
-* [Masonry (for transitions)](https://rubygems.org/gems/masonry-rails)
+* {Masonry (for transitions)}[https://rubygems.org/gems/masonry-rails]
 
-* [Bootstrap-Sass](https://rubygems.org/gems/bootstrap-sass)
+* Bootstrap-Sass[https://rubygems.org/gems/bootstrap-sass]
 
-* [Rails Simple forms](https://rubygems.org/gems/simple_form)
+* {Rails Simple forms}[https://rubygems.org/gems/simple_form]
 
-* [Haml](https://rubygems.org/gems/haml)
-
-
+* Haml[https://rubygems.org/gems/haml]
 
 
-Please feel free to clone and extend the functionalities
 
-Credits to: **[Mackenzie Child](https://github.com/mackenziechild)**
+
+Please feel free to clone and extend the functionalities of this app
+
+Credits to: {Mackenzie Child}[https://github.com/mackenziechild]
